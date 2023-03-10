@@ -1,0 +1,14 @@
+# Folders
+.vs/
+.vscode/
+bin/
+obj/
+*/temp/
+
+# Files
+.env
+*.trc
+*.user
+nuget.config
+yarn-error.log
+.npmrc
